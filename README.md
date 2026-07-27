@@ -85,7 +85,7 @@ Beberapa insight yang diperoleh antara lain:
 
 Project ini dibuat sebagai:
 
-- Portfolio Data Analyst
+- Project Mandiri Portfolio Data Analyst
 - Latihan Exploratory Data Analysis (EDA)
 - Implementasi analisis data menggunakan Python
 
