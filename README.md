@@ -6,8 +6,6 @@ Analisis data pelanggan bank untuk memahami faktor-faktor yang memengaruhi Custo
 
 - Memahami karakteristik pelanggan bank.
 - Mengidentifikasi faktor yang memengaruhi Customer Churn.
-- Menemukan pola perilaku pelanggan melalui Exploratory Data Analysis (EDA).
-- Memberikan insight dan rekomendasi bisnis berdasarkan hasil analisis data.
 
 ## Dataset
 
